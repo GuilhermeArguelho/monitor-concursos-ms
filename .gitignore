@@ -1,0 +1,5 @@
+credenciais.json 
+historico/ 
+*.pyc 
+__pycache__/ 
+relatorio_hoje.json    # opcional, cada dia ‚ novo
