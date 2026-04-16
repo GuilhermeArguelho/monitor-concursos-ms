@@ -7,7 +7,7 @@ Script que processa a resposta JSON do Gemini Deep Research e insere novas oport
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/monitor-concursos-ms.git
+git clone https://github.com/GuilhermeArguelho/monitor-concursos-ms.git
 ```
 
 2. **Instale as dependências**
